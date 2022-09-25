@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "username": "mrsmith",
+      "email": "johnsmith@yahoo.com",
+      "phone": "9893540251"
+    },
+    {
+      "id": 2,
+      "name": "Thomas Anderson",
+      "username": "matrixneo",
+      "email": "tanderson@hotmail.com",
+      "phone": "9844013370"
+    },
+    {
+      "id": 3,
+      "name": "John Francis Morrison",
+      "username": "soldier76",
+      "email": "jmorrison@gmail.com",
+      "phone": "9822310093"
+    },
+    {
+      "id": 4,
+      "name": "Satya Vaswani",
+      "username": "ing_symmetra",
+      "email": "svaswani@vishkar.com",
+      "phone": "1231239876"
+    }
+  ]
+}
